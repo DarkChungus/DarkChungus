@@ -70,6 +70,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,atom,c,cpp,css,discord,django,eclipse,github,gmail,godot,html,idea,instagram,java,js,lua,notion,ps,pr,pycharm,py,robloxstudio,stackoverflow,twitter,vim,vscode,windows&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ae,atom,c,cpp,css,discord,django,eclipse,github,gmail,godot,html,idea,instagram,java,js,lua,notion,ps,pr,pycharm,py,robloxstudio,stackoverflow,twitter,vim,vscode,windows&perline=7" />
   </a>
 </p>
