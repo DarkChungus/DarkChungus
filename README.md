@@ -20,6 +20,7 @@
   - Python 🐍
   - HTML/CSS 💻
   - C 🔥
+  - QBASIC 👴
     
 - Intermediate:
   - C++ 💪
