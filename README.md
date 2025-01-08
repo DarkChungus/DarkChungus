@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Welcome to my GitHub!</h1>
+  <h1>👾Welcome to my GitHub👾</h1>
 </div>
 
 <div align="center">
@@ -7,7 +7,9 @@
        alt="yoinked from github.com/vaxad" /></a>
 </div>
 
-## **Introduction**
+<div align="center">
+  <h2><b>📝Introduction📝</b></h2>
+</div>
 
 - Name: Prakrit Gajurel
 - DOB(MM/DD/YYYY): 04/01/2010
