@@ -16,7 +16,9 @@
 - Interests: Coding, Math, Physics, Algorithms, Competitive Programming
 - Currently Studying: Grade 10
 
-## **About Me**
+<div align="center">
+  <h2><b>👀About Me👀</b></h2>
+</div>
 
 - 🔭 I am currently a student in Nepal, doing mostly math-related programming.
 - 🏅 Number 30 on ProjectEuler leaderboards of Nepal.
@@ -25,22 +27,27 @@
 - 🐱‍👤 I don't just code though, I also know how to edit videos, photos, and can do much more with my abilities!
 - 📧 Feel free to reach out to me at: *pgajurel111@hotmail.com*
 
-## **Languages**
+<div align="center">
+  <h2><b>🦚Languages🦚</b></h2>
+</div>
 
-- Proficient:
+- **Proficient**:
   - Python 🐍
   - HTML/CSS 💻
   - C 🔥
   - QBASIC 👴
     
-- Intermediate:
+- **Intermediate**:
   - C++ 💪
   - Java ☕
 
-- Basic:
+- **Basic**:
   - JS 🟨
+  - Lua 🌙
 
-## **Used IDEs**
+<div align="center">
+  <h2><b>🌀Used IDEs🌀</b></h2>
+</div>
 
 - GVim 🗿
 - PyCharm 🟩
@@ -50,7 +57,19 @@
 - IntelliJ IDEA 💜
 - DosBOX for QBASIC 📦
 
-## Game Development Experience
+<div align="center">
+  <h2><b>🎲Game Development Experience🎲</b></h2>
+</div>
 
-- Roblox(Lua) 🔲
+- Roblox 🔲
 - Godot 🤖
+
+<div align="center">
+  <h2><b>🌌I know how to use these!🌌</b></h2>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,atom,c,cpp,css,discord,django,eclipse,github,gmail,godot,html,idea,instagram,java,js,lua,notion,ps,pr,pycharm,py,robloxstudio,stackoverflow,twitter,vim,vscode,windows&perline=10" />
+  </a>
+</p>
