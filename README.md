@@ -1,3 +1,8 @@
+<div align="center">
+  <img  src="https://github.com/vaxad/vaxad/blob/main/grid-snake.svg"
+       alt="credit to vaxad" /></a>
+</div>
+
 ## **Introduction**
 
 - Name: Prakrit Gajurel
