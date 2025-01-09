@@ -43,7 +43,7 @@
 
 - **Basic**:
   - JS 🟨
-  - Lua 🌙
+  - Lua(for Roblox) 🌙
 
 <div align="center">
   <h2><b>🌀Used IDEs🌀</b></h2>
