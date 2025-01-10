@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <h1>👾Welcome to my GitHub👾</h1>
 </div>
@@ -73,3 +75,5 @@
     <img src="https://skillicons.dev/icons?i=ae,atom,c,cpp,css,discord,django,eclipse,github,gmail,godot,html,idea,instagram,java,js,lua,notion,ps,pr,pycharm,py,robloxstudio,stackoverflow,twitter,vim,vscode,windows&perline=7" />
   </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
