@@ -1,8 +1,12 @@
+<!--border line-->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <h1>👾Welcome to my GitHub👾</h1>
 </div>
+
+<!--credit to vaxad for this amazing snake thing-->
 
 <div align="center">
   <img  src="https://github.com/vaxad/vaxad/blob/main/grid-snake.svg"
@@ -69,6 +73,8 @@
 <div align="center">
   <h2><b>🌌I know how to use these!🌌</b></h2>
 </div>
+
+<!--got these from skillicons-->
 
 <p align="center">
   <a href="https://skillicons.dev">
