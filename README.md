@@ -41,11 +41,11 @@
 - **Proficient**:
   - Python 🐍
   - HTML/CSS 💻
-  - C 🔥
+  - C++ 🔥
   - QBASIC 👴
     
 - **Intermediate**:
-  - C++ 💪
+  - C 💪
   - Java ☕
 
 - **Basic**:
