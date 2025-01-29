@@ -46,9 +46,9 @@
     
 - **Intermediate**:
   - C 💪
-  - Java ☕
 
 - **Basic**:
+  - Java ☕
   - JS 🟨
   - Lua(for Roblox) 🌙
 
