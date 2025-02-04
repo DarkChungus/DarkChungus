@@ -18,10 +18,10 @@
 </div>
 
 <div align="center">
-  Name: Prakrit Gajurel<br>
-  DOB(MM/DD/YYYY): 04/01/2010<br>
-  Interests: Coding, Math, Physics, Algorithms, Competitive Programming<br>
-  Currently Studying: Grade 10<br>
+  - Name: Prakrit Gajurel<br>
+  - DOB(MM/DD/YYYY): 04/01/2010<br>
+  - Interests: Coding, Math, Physics, Algorithms, Competitive Programming<br>
+  - Currently Studying: Grade 10<br>
 </div>
 
 <div align="center">
@@ -29,13 +29,13 @@
 </div>
 
 <div align="center">
-    🔭 I am currently a student in Nepal, doing mostly math-related programming.<br>
-    🏅 Number 28 on ProjectEuler leaderboards of Nepal.<br>
-    👑 IMO Aspirant<br>
-    ☁ I have a huge interest in problem-solving and beautiful algorithms. I try to develop my own algorithms from time to time.<br>
-    🔢 I love math(especially proofs), I taught myself many topics such as Calculus 1 and 2, Trigonometry, etc. Whenever I see something new, I always try and find my own method of finding out WHY it is that formula, instead of just accepting it as it is.<br>
-    🐱‍👤 I don't just code though, I also know how to edit videos, photos, and can do much more with my abilities!<br>
-    📧 Feel free to reach out to me at: *pgajurel111@hotmail.com*<br>
+    - 🔭 I am currently a student in Nepal, doing mostly math-related programming.<br>
+    - 🏅 Number 28 on ProjectEuler leaderboards of Nepal.<br>
+    - 👑 IMO Aspirant<br>
+    - ☁ I have a huge interest in problem-solving and beautiful algorithms. I try to develop my own algorithms from time to time.<br>
+    - 🔢 I love math(especially proofs), I taught myself many topics such as Calculus 1 and 2, Trigonometry, etc. Whenever I see something new, I always try and find my own method of finding out WHY it is that formula, instead of just accepting it as it is.<br>
+    - 🐱‍👤 I don't just code though, I also know how to edit videos, photos, and can do much more with my abilities!<br>
+    - 📧 Feel free to reach out to me at: *pgajurel111@hotmail.com*<br>
 </div>
 
 <div align="center">
@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
-    **Proficient**:<br>
+  - <b>Proficient</b>:<br>
   - Python 🐍<br>
   - HTML/CSS 💻<br>
   - C++ 🔥<br>
