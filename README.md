@@ -43,38 +43,24 @@
 </div>
 
 <div align="center">
-  <p class="proficient">
+  <p>
     <b>Proficient</b>:<br>
     Python 🐍<br>
     HTML/CSS 💻<br>
     C++ 🔥<br>
     QBASIC 👴<br>
   </p>
-  <p class="intermediate">
+  <p>
     <b>Intermediate</b>:<br>
     C 💪<br>
   </p>
-  <p class="basic">
+  <p>
     <b>Basic</b>:<br>
     Java ☕<br>
     JS 🟨<br>
     Lua (for Roblox) 🌙<br>
   </p>
 </div>
-
-<style>
-.proficient {
-  text-align: left;
-}
-
-.intermediate {
-  text-align: left;
-}
-
-.basic {
-  text-align: left;
-}
-</style>
 
 <div align="center">
   <h2><b>🌀Used IDEs🌀</b></h2>
