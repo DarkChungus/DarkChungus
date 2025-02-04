@@ -18,10 +18,10 @@
 </div>
 
 <div align="center">
-  Name: Prakrit Gajurel
-  DOB(MM/DD/YYYY): 04/01/2010
-  Interests: Coding, Math, Physics, Algorithms, Competitive Programming
-  Currently Studying: Grade 10
+  Name: Prakrit Gajurel<br>
+  DOB(MM/DD/YYYY): 04/01/2010<br>
+  Interests: Coding, Math, Physics, Algorithms, Competitive Programming<br>
+  Currently Studying: Grade 10<br>
 </div>
 
 <div align="center">
@@ -29,13 +29,13 @@
 </div>
 
 <div align="center">
-    🔭 I am currently a student in Nepal, doing mostly math-related programming.
-    🏅 Number 28 on ProjectEuler leaderboards of Nepal.
-    👑 IMO Aspirant
-    ☁ I have a huge interest in problem-solving and beautiful algorithms. I try to develop my own algorithms from time to time.
-    🔢 I love math(especially proofs), I taught myself many topics such as Calculus 1 and 2, Trigonometry, etc. Whenever I see something new, I always try and find my own method of finding out WHY it is that formula, instead of just accepting it as it is.
-    🐱‍👤 I don't just code though, I also know how to edit videos, photos, and can do much more with my abilities!
-    📧 Feel free to reach out to me at: *pgajurel111@hotmail.com*
+    🔭 I am currently a student in Nepal, doing mostly math-related programming.<br>
+    🏅 Number 28 on ProjectEuler leaderboards of Nepal.<br>
+    👑 IMO Aspirant<br>
+    ☁ I have a huge interest in problem-solving and beautiful algorithms. I try to develop my own algorithms from time to time.<br>
+    🔢 I love math(especially proofs), I taught myself many topics such as Calculus 1 and 2, Trigonometry, etc. Whenever I see something new, I always try and find my own method of finding out WHY it is that formula, instead of just accepting it as it is.<br>
+    🐱‍👤 I don't just code though, I also know how to edit videos, photos, and can do much more with my abilities!<br>
+    📧 Feel free to reach out to me at: *pgajurel111@hotmail.com*<br>
 </div>
 
 <div align="center">
@@ -43,19 +43,19 @@
 </div>
 
 <div align="center">
-  - **Proficient**:
-  - Python 🐍
-  - HTML/CSS 💻
-  - C++ 🔥
-  - QBASIC 👴
+    **Proficient**:<br>
+  - Python 🐍<br>
+  - HTML/CSS 💻<br>
+  - C++ 🔥<br>
+  - QBASIC 👴<br>
     
-- **Intermediate**:
-  - C 💪
+- **Intermediate**:<br>
+  - C 💪<br>
 
-- **Basic**:
-  - Java ☕
-  - JS 🟨
-  - Lua(for Roblox) 🌙
+- **Basic**:<br>
+  - Java ☕<br>
+  - JS 🟨<br>
+  - Lua(for Roblox) 🌙<br>
 </div>
 
 <div align="center">
@@ -77,8 +77,10 @@
   <h2><b>🎲Game Development Experience🎲</b></h2>
 </div>
 
-- Roblox 🔲
-- Godot 🤖
+<div align="center">
+    Roblox 🔲<br>
+    Godot 🤖<br>
+</div>
 
 <div align="center">
   <h2><b>🌌I know how to use these!🌌</b></h2>
