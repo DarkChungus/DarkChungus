@@ -17,28 +17,33 @@
   <h2><b>📝Introduction📝</b></h2>
 </div>
 
-- Name: Prakrit Gajurel
-- DOB(MM/DD/YYYY): 04/01/2010
-- Interests: Coding, Math, Physics, Algorithms, Competitive Programming
-- Currently Studying: Grade 10
+<div align="center">
+  Name: Prakrit Gajurel
+  DOB(MM/DD/YYYY): 04/01/2010
+  Interests: Coding, Math, Physics, Algorithms, Competitive Programming
+  Currently Studying: Grade 10
+</div>
 
 <div align="center">
   <h2><b>👀About Me👀</b></h2>
 </div>
 
-- 🔭 I am currently a student in Nepal, doing mostly math-related programming.
-- 🏅 Number 28 on ProjectEuler leaderboards of Nepal.
-- 👑 IMO Aspirant
-- ☁ I have a huge interest in problem-solving and beautiful algorithms. I try to develop my own algorithms from time to time.
-- 🔢 I love math(especially proofs), I taught myself many topics such as Calculus 1 and 2, Trigonometry, etc. Whenever I see something new, I always try and find my own method of finding out WHY it is that formula, instead of just accepting it as it is.
-- 🐱‍👤 I don't just code though, I also know how to edit videos, photos, and can do much more with my abilities!
-- 📧 Feel free to reach out to me at: *pgajurel111@hotmail.com*
+<div align="center">
+    🔭 I am currently a student in Nepal, doing mostly math-related programming.
+    🏅 Number 28 on ProjectEuler leaderboards of Nepal.
+    👑 IMO Aspirant
+    ☁ I have a huge interest in problem-solving and beautiful algorithms. I try to develop my own algorithms from time to time.
+    🔢 I love math(especially proofs), I taught myself many topics such as Calculus 1 and 2, Trigonometry, etc. Whenever I see something new, I always try and find my own method of finding out WHY it is that formula, instead of just accepting it as it is.
+    🐱‍👤 I don't just code though, I also know how to edit videos, photos, and can do much more with my abilities!
+    📧 Feel free to reach out to me at: *pgajurel111@hotmail.com*
+</div>
 
 <div align="center">
   <h2><b>🦚Languages🦚</b></h2>
 </div>
 
-- **Proficient**:
+<div align="center">
+  - **Proficient**:
   - Python 🐍
   - HTML/CSS 💻
   - C++ 🔥
@@ -51,6 +56,7 @@
   - Java ☕
   - JS 🟨
   - Lua(for Roblox) 🌙
+</div>
 
 <div align="center">
   <h2><b>🌀Used IDEs🌀</b></h2>
