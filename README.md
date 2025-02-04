@@ -56,13 +56,16 @@
   <h2><b>🌀Used IDEs🌀</b></h2>
 </div>
 
-- GVim 🗿
-- PyCharm 🟩
-- Eclipse 🌘
-- VSCode 🔹
-- NotePad 💪
-- IntelliJ IDEA 💜
-- DosBOX for QBASIC 📦
+<div align="center">
+  - GVim 🗿
+  - PyCharm 🟩
+  - Eclipse 🌘
+  - VSCode 🔹
+  - NotePad 💪
+  - IntelliJ IDEA 💜
+  - DosBOX for QBASIC 📦
+  - DevC++ ➕
+</div>
 
 <div align="center">
   <h2><b>🎲Game Development Experience🎲</b></h2>
