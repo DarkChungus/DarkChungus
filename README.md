@@ -57,14 +57,14 @@
 </div>
 
 <div align="center">
-  - GVim 🗿<br>
-  - PyCharm 🟩<br>
-  - Eclipse 🌘<br>
-  - VSCode 🔹<br>
-  - NotePad 💪<br>
-  - IntelliJ IDEA 💜<br>
-  - DosBOX for QBASIC 📦<br>
-  - DevC++ ➕<br>
+  GVim 🗿<br>
+  PyCharm 🟩<br>
+  Eclipse 🌘<br>
+  VSCode 🔹<br>
+  NotePad 💪<br>
+  IntelliJ IDEA 💜<br>
+  DosBOX for QBASIC 📦<br>
+  DevC++ ➕<br>
 </div>
 
 <div align="center">
