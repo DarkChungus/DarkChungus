@@ -43,9 +43,9 @@
 </div>
 
 <div align="center">
-  - 3️⃣ Calculus 3
-  - ☕ Java
-  - 🧮 Algorithms
+  - 3️⃣ Calculus 3<br>
+  - ☕ Java<br>
+  - 🧮 Algorithms<br>
 </div>
 
 <div align="center">
