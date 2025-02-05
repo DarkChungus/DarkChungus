@@ -39,6 +39,16 @@
 </div>
 
 <div align="center">
+  <h2><b>❓Currently Learning❓</b></h2>
+</div>
+
+<div align="center">
+  - 3️⃣ Calculus 3
+  - ☕ Java
+  - 🧮 Algorithms
+</div>
+
+<div align="center">
   <h2><b>🦚Languages🦚</b></h2>
 </div>
 
