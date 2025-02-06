@@ -18,10 +18,10 @@
 </div>
 
 <div align="center">
-  - Name: Prakrit Gajurel<br>
-  - DOB(MM/DD/YYYY): 04/01/2010<br>
-  - Interests: Coding, Math, Physics, Algorithms, Competitive Programming<br>
-  - Currently Studying: Grade 10<br>
+  - <b>Name:</b> Prakrit Gajurel<br>
+  - <b>DOB(MM/DD/YYYY):</b> 04/01/2010<br>
+  - <b>Interests:</b> Coding, Math, Physics, Algorithms, Competitive Programming<br>
+  - <b>Currently Studying:</b> Grade 10<br>
 </div>
 
 <div align="center">
