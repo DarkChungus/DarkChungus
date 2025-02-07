@@ -46,6 +46,7 @@
   - 3️⃣ Calculus 3<br>
   - ☕ Java<br>
   - 🧮 Algorithms<br>
+  - 🤖 Discord Bot Development <br>
 </div>
 
 <div align="center">
