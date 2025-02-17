@@ -17,9 +17,13 @@
        alt="yoinked from github.com/vaxad" /></a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <h2><b>📝Introduction📝</b></h2>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   - <b>Name:</b> Prakrit Gajurel<br>
@@ -28,9 +32,13 @@
   - <b>Currently Studying:</b> Grade 10<br>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <h2><b>👀About Me👀</b></h2>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
     - 🔭 I am currently a student in Nepal, doing mostly math-related programming.<br>
@@ -42,9 +50,13 @@
     - 📧 Feel free to reach out to me at: <u><i>pgajurel111@hotmail.com</i></u><br>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <h2><b>❓Currently Learning❓</b></h2>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   - 3️⃣ Calculus 3<br>
@@ -53,9 +65,13 @@
   - 🤖 Discord Bot Development <br>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <h2><b>🦚Languages🦚</b></h2>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <p>
@@ -77,9 +93,13 @@
   </p>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <h2><b>🌀Used IDEs🌀</b></h2>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   GVim 🗿<br>
@@ -92,14 +112,20 @@
   DevC++ ➕<br>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <h2><b>🎲Game Development Experience🎲</b></h2>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
     Roblox 🔲<br>
     Godot 🤖<br>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <h2><b>🌌I know how to use these!🌌</b></h2>
