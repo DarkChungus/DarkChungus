@@ -1,7 +1,6 @@
 <!--border line-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <h1>👾Welcome to my GitHub👾</h1>
@@ -18,6 +17,7 @@
        alt="yoinked from github.com/vaxad" /></a>
 </div>
 
+<!--border line-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -31,6 +31,7 @@
   - <b>Currently Studying:</b> Grade 10<br>
 </div>
 
+<!--border line-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -47,6 +48,7 @@
     - 📧 Feel free to reach out to me at: <u><i>pgajurel111@hotmail.com</i></u><br>
 </div>
 
+<!--border line-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -60,6 +62,7 @@
   - 🤖 Discord Bot Development <br>
 </div>
 
+<!--border line-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -86,6 +89,7 @@
   </p>
 </div>
 
+<!--border line-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -103,6 +107,7 @@
   DevC++ ➕<br>
 </div>
 
+<!--border line-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -114,6 +119,7 @@
     Godot 🤖<br>
 </div>
 
+<!--border line-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
