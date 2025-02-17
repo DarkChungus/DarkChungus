@@ -23,8 +23,6 @@
   <h2><b>📝Introduction📝</b></h2>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
   - <b>Name:</b> Prakrit Gajurel<br>
   - <b>DOB(MM/DD/YYYY):</b> 04/01/2010<br>
@@ -37,8 +35,6 @@
 <div align="center">
   <h2><b>👀About Me👀</b></h2>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
     - 🔭 I am currently a student in Nepal, doing mostly math-related programming.<br>
@@ -56,8 +52,6 @@
   <h2><b>❓Currently Learning❓</b></h2>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
   - 3️⃣ Calculus 3<br>
   - ☕ Java<br>
@@ -70,8 +64,6 @@
 <div align="center">
   <h2><b>🦚Languages🦚</b></h2>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <p>
@@ -99,8 +91,6 @@
   <h2><b>🌀Used IDEs🌀</b></h2>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
   GVim 🗿<br>
   PyCharm 🟩<br>
@@ -117,8 +107,6 @@
 <div align="center">
   <h2><b>🎲Game Development Experience🎲</b></h2>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
     Roblox 🔲<br>
