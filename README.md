@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h1>👾Welcom to my GitHub👾</h1>
+  <h1>👾Welcome to my GitHub👾</h1>
 </div>
 
 <!--border line-->
