@@ -13,8 +13,6 @@
 🔭 Student based in Nepal, focused on Mathematics (Olympiad & pure math)
 <br>
 👑 Aiming for Nepal’s IMO Team
-<br>
-☁ Passionate about problem-solving, algorithms, and elegant thinking
 
 </div>
 
