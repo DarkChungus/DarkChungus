@@ -10,9 +10,9 @@
 
 <div align="center">
 
-🤔 16 years old
+🤔 I'm a 16 year old from Nepal
 <br>
-🔭 Student based in Nepal, focused on Mathematics (Olympiad & pure math)
+🔭 I'm mainly focused on mathematics and computer science
 <br>
 👑 Aiming for Nepal’s IMO Team
 
